@@ -1,5 +1,5 @@
 # TTOS0100
-[Repon viki](https://guides.github.com)
+[Repon wiki](https://guides.github.com)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
